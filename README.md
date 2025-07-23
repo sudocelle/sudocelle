@@ -34,7 +34,11 @@ I'm currently building **ChickenOS** — my own operating system and custom kern
 ---
 
 ### 📈 GitHub Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudocelle&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudocelle&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+![Jocelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudocelle&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true)  
+![Jocelle's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-compact&hide_border=true)
 
 ---
 
