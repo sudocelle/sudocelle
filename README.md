@@ -8,12 +8,10 @@ I'm currently building **ChickenOS** — my own operating system and custom kern
 
 ### 🌱 What I'm Learning
 - Operating system development in C
-- Networking concepts and simulation (Packet Tracer, Proteus, Cisco)
+- Networking concepts and simulation (Packet Tracer, Proteus)
 - Python socket programming & IoT simulations
 - Android development with Java/Kotlin
 - Web design using HTML5 & CSS3
-- Cybersecurity fundamentals with Kali Linux
-- Basics of cloud computing and infrastructure
 
 ---
 
