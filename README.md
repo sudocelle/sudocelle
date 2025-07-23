@@ -8,10 +8,12 @@ I'm currently building **ChickenOS** — my own operating system and custom kern
 
 ### 🌱 What I'm Learning
 - Operating system development in C
-- Networking concepts and simulation (Packet Tracer, Proteus)
+- Networking concepts and simulation (Packet Tracer, Proteus, Cisco)
 - Python socket programming & IoT simulations
 - Android development with Java/Kotlin
 - Web design using HTML5 & CSS3
+- Cybersecurity fundamentals with Kali Linux
+- Basics of cloud computing and infrastructure
 
 ---
 
@@ -25,7 +27,11 @@ I'm currently building **ChickenOS** — my own operating system and custom kern
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-blueviolet) <!-- Custom badge -->
+![Proteus](https://img.shields.io/badge/Proteus-Simulation-blueviolet)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E62A4F?style=flat&logo=datadog&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
