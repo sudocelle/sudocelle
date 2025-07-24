@@ -1,5 +1,5 @@
 # Hi, I'm Jocelle 👋  
-*IT Student | Network Admin Enthusiast | Maker of ChickenOS*
+*IT Student | Network Admin Enthusiast 
 
 Welcome to my corner of the internet 🐣  
 
