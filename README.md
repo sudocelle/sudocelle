@@ -1,20 +1,20 @@
 # Hi, I'm Jocelle 👋  
-*IT Student | Network Admin Enthusiast 
+*IT Student | Network Admin Enthusiast*
 
-Welcome to my corner of the internet 🐣  
-
----
-
-### 🌱 What I'm Learning
-- Operating system development in C
-- Networking concepts and simulation (Packet Tracer, Proteus)
-- Python socket programming & IoT simulations
-- Android development with Java/Kotlin
-- Web design using HTML5 & CSS3
+Welcome to my corner of the internet 🐣
 
 ---
 
-### 🛠️ Tech I Use & Explore
+### 🌱 Currently Learning
+- OS development in C
+- Network simulation (Cisco Packet Tracer, Proteus)
+- Python socket programming & IoT
+- Android dev with Java/Kotlin
+- Web design (HTML5, CSS3)
+
+---
+
+### 🛠️ Tools & Tech I Use
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,17 +28,19 @@ Welcome to my corner of the internet 🐣
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E62A4F?style=flat&logo=datadog&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-blue?style=flat&logo=cloudflare&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-blue?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudocelle&theme=dark&hide_border=true&timestamp=1)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-compact&hide_border=true&random=1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudocelle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&t=${RANDOM})](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-compact&hide_border=true&custom_title=My%20GitHub%20Activity)
 
 ---
 
-### 💬 Let’s Connect
-Feel free to explore my repos or message me if you're curious about IoT, system programming, or just want to say hi!
+### 💬 Let's Connect
+
+Curious about IoT, system programming, or just wanna say hi? Check out my repos or drop me a message!
+
