@@ -2,7 +2,6 @@
 *IT Student | Network Admin Enthusiast | Maker of ChickenOS*
 
 Welcome to my corner of the internet 🐣  
-I'm currently building **ChickenOS** — my own operating system and custom kernel called `PoPKernel` (Power of Possibility). This journey into low-level dev is my personal gift to myself and a deep dive into how computers really work.
 
 ---
 
