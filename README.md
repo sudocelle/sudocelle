@@ -34,7 +34,7 @@ Welcome to my corner of the internet 🐣
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudocelle&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=torvalds&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-compact&hide_border=true&custom_title=My%20GitHub%20Activity&timestamp=20250727)
 
