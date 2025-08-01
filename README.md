@@ -36,7 +36,8 @@ Welcome to my corner of the internet 🐣
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-compact&hide_border=true&custom_title=My%20GitHub%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Activity&date=2025-08-01)
+
 
 ---
 
