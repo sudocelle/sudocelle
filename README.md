@@ -1,5 +1,5 @@
 # Hi, I'm Jocelle 👋  
-*IT Student | Network Admin Enthusiast*
+I am an IT Student
 
 Welcome to my corner of the internet 🐣
 
