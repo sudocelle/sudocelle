@@ -1,60 +1,103 @@
-# Hi, I'm Jocelle 👋
-**BSIT Graduate • Cybersecurity Enthusiast • System Learner**
+# 👋 Hello, Explorer.
 
-Welcome to my corner of the internet 🐣
+```text
+$ whoami
+Jocelle
 
-I enjoy building things at the intersection of cybersecurity, networking, embedded systems, and software development. I'm constantly exploring how hardware and software come together to solve real-world problems.
+$ role
+BSIT Graduate
+Cybersecurity Enthusiast
+Systems Thinker
 
----
+$ status
+Learning something new...
+```
 
-### 🌱 Currently Exploring
-
-- Cybersecurity & network defense
-- Operating systems & low-level programming in C
-- Python automation & networking
-- IoT and embedded systems
-- Android development (Java/Kotlin)
-- Cloud technologies & virtualization
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-blueviolet)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E62A4F?style=flat&logo=datadog&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-blue?style=flat&logo=cloudflare&logoColor=white)
+> *"Every system has a story. I like figuring out how it works."*
 
 ---
 
-### 📈 GitHub Activity
+## 🗺️ Current Quest
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudocelle&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-dark&hide_border=true)
-
----
-
-### 🎯 Current Focus
-
-- Building practical cybersecurity projects
-- Strengthening networking and Linux skills
-- Learning by building, documenting, and experimenting
-- Growing as a cybersecurity and software engineer
+- 🛡️ Cybersecurity
+- 🌐 Networking
+- ⚙️ Operating Systems & Low-level Programming
+- 🤖 IoT & Embedded Systems
+- 📱 Android Development
+- ☁️ Cloud & Virtualization
+- 🧠 Machine Learning (beginner)
 
 ---
 
-### 💬 Let's Connect
+## 🧰 Inventory
 
-If you're interested in cybersecurity, networking, IoT, or building cool things, feel free to explore my repositories or reach out. Always happy to learn, collaborate, and share ideas.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux)
+
+---
+
+## 📊 System Status
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudocelle&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 📈 Activity Map
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudocelle&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sudocelle/sudocelle/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌌 Mission Log
+
+```text
+✓ Learn by building.
+✓ Break things.
+✓ Understand why they broke.
+✓ Build them better.
+```
+
+---
+
+## 🎮 Side Quests
+
+- Reverse engineering
+- CTF Challenges
+- Linux
+- Raspberry Pi
+- Arduino
+- OS Development
+- Electronics
+- AI & Machine Learning
+- Reading papers
+- Building random tools
+
+---
+
+## 🌠 Visitor Terminal
+
+![](https://komarev.com/ghpvc/?username=sudocelle&style=for-the-badge&color=blueviolet)
+
+---
+
+## 📡 Transmission
+
+> "Curiosity is my default operating system."
+
+If you're interested in cybersecurity, systems, networking, or just want to build cool things together, feel free to explore my repositories.
