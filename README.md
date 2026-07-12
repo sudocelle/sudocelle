@@ -24,14 +24,14 @@ Learning    :: Cloud • AI • Embedded Systems
 Status      :: Building projects one commit at a time.
 ```
 
-I enjoy building projects that combine **software, networking, cybersecurity, and embedded systems**. Most of what I know comes from curiosity, experimenting, and breaking things until I understand why they work.
+I enjoy building projects that combine **software, networking, cybersecurity, embedded systems, and AI**. Most of what I know comes from curiosity, experimenting, and understanding how systems work beneath the surface.
 
 ---
 
 # 🌌 Current Missions
 
 - 🛡️ Cybersecurity
-- 🌐 Computer Networks
+- 🌐 Networking
 - ⚙️ Operating Systems
 - 🐍 Python Automation
 - 🤖 IoT & Embedded Systems
@@ -62,19 +62,25 @@ I enjoy building projects that combine **software, networking, cybersecurity, an
 
 ---
 
-# 📊 Mission Statistics
+# 📊 Mission Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudocelle&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudocelle&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudocelle&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudocelle&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudocelle&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Activity Map
 
 <p align="center">
 
@@ -96,7 +102,7 @@ I enjoy building projects that combine **software, networking, cybersecurity, an
 
 # 🎮 Side Quests
 
-- 🔐 Reverse Engineering
+- 🔐 Cybersecurity Challenges
 - 🧩 Capture The Flag (CTFs)
 - 🐧 Linux
 - 📡 Networking
@@ -104,23 +110,46 @@ I enjoy building projects that combine **software, networking, cybersecurity, an
 - ⚡ Arduino
 - 💻 Operating Systems
 - 📱 Android
-- ☁️ Cloud
-- 🧠 AI & Machine Learning
+- ☁️ Cloud Computing
+- 🧠 Artificial Intelligence
+- 🎨 UI/UX Design
+- 📚 Reading Technical Papers
+
+---
+
+# 🚀 Current Objectives
+
+```text
+[██████████░░░░░░] Cybersecurity
+
+[████████░░░░░░░░] AI & Machine Learning
+
+[████████████░░░░] Networking
+
+[███████████░░░░░] Systems Programming
+
+Mission:
+✔ Learn
+✔ Build
+✔ Break
+✔ Understand
+✔ Improve
+```
 
 ---
 
 # 🌠 Philosophy
 
-> **"Learning isn't about collecting answers—it's about understanding systems."**
+> *"Learning isn't about collecting answers—it's about understanding systems."*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+## 📡 Transmission Open
 
-If any of my projects interest you, feel free to explore the repositories or connect with me.
+If you enjoy cybersecurity, networking, embedded systems, AI, or building cool things, feel free to explore my repositories.
 
-**Happy coding! 🚀**
+⭐ Thanks for visiting!
 
 </div>
